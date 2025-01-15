@@ -2,7 +2,7 @@
 
 An upcoming Arch-based Linux distribution that aims to be as a user friendly as possible while also looking good.
 
-# DISCLAIMER
+# DISCLAIMER - PLEASE READ
 
 NullLinux is NOT released yet.
 
