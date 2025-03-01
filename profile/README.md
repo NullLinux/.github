@@ -1,8 +1,8 @@
 # NullLinux
+An upcoming Arch-based Linux distribution that aims to be as as user friendly as possible while also looking good.
 
 ## Website:
 Go to the newly released NullLinux website: https://nulllinux.github.io
-An upcoming Arch-based Linux distribution that aims to be as as user friendly as possible while also looking good.
 
 # DISCLAIMER - PLEASE READ
 
